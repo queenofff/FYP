@@ -670,6 +670,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   starMenu: {fileID: 480405894}
   UI: {fileID: 480405892}
+  speed: 1
+  rectTransform: {fileID: 480405893}
 --- !u!1 &480405892
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Creator Kit - RPG/Scenes/StartScence.unity
-    guid: f35647bacb7be6440bc3e96d80405fdc
+    path: Assets/Scenes/StartScene.unity
+    guid: 878496a0004a6a545a80132e124d0bab
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fa2125be90671c4bbeeed5fd0eb28dd
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 7aff55c197575724e86c5c0d87bd5a0b
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 65882f958166b84449eea4601961d67b
   m_configObjects: {}
